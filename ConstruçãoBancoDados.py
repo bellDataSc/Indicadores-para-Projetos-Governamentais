@@ -12,3 +12,16 @@
 #Teste a conexão
 
   connection = engine.connect()
+
+#Criação de Tabelas:
+
+  connection.execute("""
+CREATE TABLE indicadores (
+    id SERIAL PRIMARY KEY,
+    indicador_nome VARCHAR(255),
+    valor NUMERIC,
+    data DATE
+);
+""")
+
+
