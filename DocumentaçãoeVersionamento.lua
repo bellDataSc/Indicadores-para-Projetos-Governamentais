@@ -1,5 +1,5 @@
 #6. Documentação e Versionamento
-#Para manter um bom portfólio no GitHub, siga estas práticas:
+
 
 #Estrutura do Repositório:
 
