@@ -8,8 +8,8 @@ A etapa de tratamento de dados incluiu a limpeza e padronização das informaç�
 
 Após o tratamento inicial, iniciei a fase de análise e consolidação dos dados. Utilizando SQL e o Pandas, desenvolvi queries e scripts de agregação que permitiram analisar tendências ao longo do tempo e comparar dados entre diferentes categorias de indicadores. Com a ajuda do Jupyter Notebook, documentei cada passo do processo, o que possibilita a replicabilidade e facilita a revisão e interpretação dos resultados. O notebook final apresenta gráficos e tabelas dinâmicas, que resumem os principais insights obtidos e proporcionam uma visualização clara das variações e tendências dos indicadores. 
 
-# 💼 Isabel Gonçalves
-Data Science 
+## 💼 Isabel Gonçalves
+
 https://www.linkedin.com/in/belcruz/
 
 ## 📚 ÍNDICE
